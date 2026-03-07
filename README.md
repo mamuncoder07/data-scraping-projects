@@ -36,6 +36,10 @@ This repository contains multiple scraping scripts and datasets useful for **Dat
 data-scraping-projects
 │
 ├── datasets
+|   ├──AmbitionBox_Companies_Dataset
+|   |   ├──README.md
+|   |   ├──ambitionbox_companies_dataset.csv
+|   |   ├──webscraping.ipynb
 │   ├── movies_dataset
 |   |   ├──README.md
 |   |   ├──movies.csv
