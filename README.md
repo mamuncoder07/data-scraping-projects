@@ -36,9 +36,13 @@ This repository contains multiple scraping scripts and datasets useful for **Dat
 data-scraping-projects
 │
 ├── datasets
-│   ├── movies_dataset.csv
-│   ├── news_dataset.csv
-│   └── products_dataset.csv
+│   ├── movies_dataset
+|   |   ├──README.md
+|   |   ├──movies.csv
+│   ├── weather_forecast_information
+|   |   ├──README.md
+|   |   ├──weather_dataset.csv
+│   └── 
 │
 └── README.md
 ```
